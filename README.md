@@ -4,6 +4,10 @@ Programming Assignments from California State University Long Beach (CSULB).
 
 CECS 342 - Principles of Programming Languages
 
+> There are conventions that we are so used to that we cannot question anymore, because we think that this is how it is and this is how it needs to be done. That is not true. It can be done that way, and it can be done differently.
+
+~ Professor Claus Jurgensen
+
 ## Assignment 1 (C, Haskell)
 
 Recreate Quick Sort and Merge Sort in C and Haskell.
